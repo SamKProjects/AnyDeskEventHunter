@@ -66,6 +66,7 @@ changes. Ticket updated with findings and escalated for hardware replacement if 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
 ---
+<img width="2554" height="1235" alt="Screenshot_2026_06_16-4" src="https://github.com/user-attachments/assets/36385876-b51b-4ccf-aaf6-561b157776fb" />
 
 > 💡 *This is a simulated help desk project created to demonstrate real-world IT support 
 > skills including ticketing, remote access, event log analysis, and memory diagnostics.*
