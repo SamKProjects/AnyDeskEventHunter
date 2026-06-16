@@ -1,4 +1,11 @@
-# Hi, I'm [Your Name] 👋
+This project simulates a real-world IT Help Desk environment to build 
+and demonstrate hands-on technical skills. I deliberately crash a VM 
+to trigger a real system failure, then remote in using RDP and AnyDesk 
+as if responding to an end-user ticket. From there I open Windows Event 
+Viewer to identify the error — Code 80, a memory-related issue — and 
+resolve it by running Windows Memory Diagnostics. Every step of the 
+process is logged and tracked in Freshservice as a real ticket would be 
+in a professional help desk environment.
 
 ---
 
