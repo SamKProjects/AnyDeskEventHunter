@@ -35,16 +35,20 @@
 ### Step 1 – Remote Into User's Desktop
 - Connected to the user's machine via **AnyDesk** for remote observation
 - Monitored system behavior to confirm the random restart pattern
+<img width="766" height="536" alt="AnyDeskConnection" src="https://github.com/user-attachments/assets/91d9091b-3b2f-49c6-bb3f-f5cc38231530" />
 
 ### Step 2 – Check Windows Event Viewer
 - Opened **Event Viewer** → Windows Logs → System
 - Identified **Error Code 80** — a memory-related error
 - Confirmed the error timestamps align with the reported restart times
+<img width="1004" height="550" alt="BugCheckCode80" src="https://github.com/user-attachments/assets/2772ead2-28c6-4b2d-91dc-954b0381b391" />
+
 
 ### Step 3 – Run Windows Memory Diagnostics
 - Opened **Windows Memory Diagnostic** tool
 - Scheduled a memory test on next system restart
 - Reviewed results for RAM faults or memory corruption
+<img width="999" height="754" alt="Windows Memory Diagnostic" src="https://github.com/user-attachments/assets/9132d0e0-4e8a-4cf9-8be7-6c94d37665fa" />
 
 ---
 
